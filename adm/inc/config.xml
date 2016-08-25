@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+<bd_config>
+<server_name>
+	localhost
+</server_name>
+<user_name>
+	root
+</user_name>
+<password>
+
+</password>
+<bd_name>
+	db_info
+</bd_name>
+</bd_config>
+</config>

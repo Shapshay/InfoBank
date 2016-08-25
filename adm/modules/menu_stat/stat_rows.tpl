@@ -1,0 +1,1 @@
+<li><a{STAT_M_CLASS} href="{STAT_M_URL}">{STAT_M_TITLE}</a></li>

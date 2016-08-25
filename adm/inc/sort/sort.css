@@ -1,0 +1,10 @@
+.note {
+background: transparent url('../../images/bg-menu-item-green.gif') left center no-repeat; /* Background image for default color scheme - green */
+padding: 10px 15px;
+color: #fff;
+font-size: 14px;
+cursor: move;
+display: block;
+text-decoration: none;
+list-style-type: none;
+}

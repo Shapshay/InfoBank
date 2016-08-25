@@ -1,0 +1,3 @@
+MAIN WORK !<br>
+{RESULT}<br>
+{STR_MSG_COMPLEECT}
